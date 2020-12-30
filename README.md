@@ -1,6 +1,6 @@
 # EPL Game Predictor
 
-This is a a little side project I am currently working on. My overarching goal is to try and develop a model that can be used to predict the results of EPL matches. At the moment, I am focusing on creating the model and doing some preliminary testing. Any updates or changes to the project will be updated here.
+This is a a little side project I am currently working on. My overarching goal is to try and develop a model that can be used to predict the results of EPL matches. However, I am not sure what the end product will be. At the moment, I am solely focusing on creating the model and doing some preliminary testing. Any updates or changes to the project will be updated here.
 
 ## Data Sources
 
